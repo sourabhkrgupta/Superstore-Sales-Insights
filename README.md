@@ -9,4 +9,4 @@ She would also like to know how well categories are performing as well as differ
 
 She also wants to see if there are opportunities for efficiencies with respect to how discounts are handled. Perhaps certain customers are receiving more discounts than other customers. Perhaps certain product categories or product segments are receiving more discounts than others. Sylvia has given you wide latitude to explore this question however you see fit, and will ultimately make a recommendation to the board of directors based on your findings. 
 
-
+For dashboard visit: https://public.tableau.com/views/SuperstoreSalesDataInsights/SuperstoreDataInsights?:language=en-US&:display_count=n&:origin=viz_share_link
